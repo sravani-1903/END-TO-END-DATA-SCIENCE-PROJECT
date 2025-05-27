@@ -16,4 +16,4 @@ This project represents a comprehensive end-to-end data science solution for hou
 
 
 #OUTPUT
-
+![Image](https://github.com/user-attachments/assets/a8f5464d-0421-49f4-93aa-698192dd2001)
